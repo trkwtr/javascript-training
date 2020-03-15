@@ -1,0 +1,52 @@
+{
+  "name": "javascript-training",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trkwtr/javascript-training.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trkwtr/javascript-training/issues"
+  },
+  "homepage": "https://github.com/trkwtr/javascript-training#readme",
+  "devDependencies": {
+    "autoprefixer": "^9.7.4",
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-beautify": "^3.0.0",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-ejs": "^5.0.0",
+    "gulp-eslint": "^6.0.0",
+    "gulp-line-ending-corrector": "^1.0.3",
+    "gulp-notify": "^3.2.0",
+    "gulp-plumber": "^1.2.1",
+    "gulp-prettier": "^2.3.0",
+    "gulp-qunit": "^2.1.1",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-typescript": "^6.0.0-alpha.1",
+    "gulp-uglify": "^3.0.2",
+    "prettier": "^1.19.1",
+    "sass": "^1.26.3",
+    "typescript": "^3.8.3"
+  },
+  "dependencies": {
+    "@types/jquery": "^3.3.33",
+    "@types/jqueryui": "^1.12.10",
+    "@types/lodash": "^4.14.149",
+    "@types/node": "^13.9.1",
+    "@types/ol": "^6.1.0",
+    "@types/openlayers": "^4.6.17"
+  }
+}
